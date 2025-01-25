@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import pic from "C:/Manthan/Coding/React Projects/react-project/src/images/manthan.jpg";
-import instaIcon from "C:/Manthan/Coding/React Projects/react-project/src/images/instaIcon.png"
-import linkedinIcon from "C:/Manthan/Coding/React Projects/react-project/src/images/linkedinIcon.png"
-import spotifyIcon from "C:/Manthan/Coding/React Projects/react-project/src/images/spotifyIcon.png"
+import pic from "C:/Manthan/Coding/React Projects/myWebsite/src/images/manthan.jpg";
+import instaIcon from "C:/Manthan/Coding/React Projects/myWebsite/src/images/instaIcon.png"
+import linkedinIcon from "C:/Manthan/Coding/React Projects/myWebsite/src/images/linkedinIcon.png"
+import spotifyIcon from "C:/Manthan/Coding/React Projects/myWebsite/src/images/spotifyIcon.png"
 import './pages.css'
 import * as React from 'react';
 import { Link, useMatch, useResolvedPath} from 'react-router-dom'

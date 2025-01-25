@@ -1,5 +1,5 @@
 import { Children } from 'react'
-import logo from "C:/Manthan/Coding/React Projects/react-project/src/images/LogoC.png"
+import logo from "C:/Manthan/Coding/React Projects/myWebsite/src/images/LogoC.png"
 import './Navbar.css'
 import { Link, useMatch, useResolvedPath} from 'react-router-dom'
 

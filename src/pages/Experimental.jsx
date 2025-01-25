@@ -1,5 +1,3 @@
-import Navbar from 'C:/Manthan/Coding/React Projects/react-project/src/Navbar.jsx';
-
 
 function Main () {
     return(
