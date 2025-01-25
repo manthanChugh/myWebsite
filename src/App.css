@@ -1,0 +1,17 @@
+html, body{
+  padding: 0;
+  margin: 0;
+}
+.div{
+  margin-top: 20rem;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  padding-top: 0rem;
+  text-align: center;
+}
+.main{
+  margin: 100px;
+}
