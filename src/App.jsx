@@ -3,7 +3,6 @@ import './App.css'
 
 import Home from "./pages/Home"
 import Contact from "./pages/Contact"
-import Photography from "./pages/Photography"
 import Resume from "./pages/Resume"
 import Programming from "./pages/Programming"
 import Tutoring from "./pages/Tutoring"
@@ -15,8 +14,10 @@ import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return( 
-    <>
+    <body>
+    <div className='navTop'>
     <Navbar/>
+    </div>
         <div >
           <Routes>
             <Route path='/' element = {<Home/>}/>
@@ -27,7 +28,7 @@ function App() {
             <Route path='/Experimental' element = {<Experimental/>}/>
           </Routes>
         </div>
-    </>
+        </body>
     )
 }
 

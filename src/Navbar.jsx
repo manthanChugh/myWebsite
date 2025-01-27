@@ -13,7 +13,7 @@ export default function Navbar(){
                 <CustomLink to = "/Experimental" id = "link2" className = "mid"> Experimental </CustomLink>   
                 <CustomLink to = "/Tutoring" id = "link3" className = "mid"> Tutoring </CustomLink>
                 <CustomLink to = "/Programming" id = "link4" className = "mid"> Projects </CustomLink>
-                <CustomLink to = "/Resume" id = "link5" className = "mid"> Résumé</CustomLink>
+                <CustomLink to = "/Resume" id = "link5" className = "mid"> Resumé</CustomLink>
             </ul>
             <button> <CustomLink to = "/Contact">Contact </CustomLink></button>
         </nav>
