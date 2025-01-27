@@ -11,7 +11,7 @@ function Main () {
   return(   
     <>
       <main>
-        <h1 id = "mainTitle">Welcome To Monty's Mojo Dojo Casa House</h1>
+        <h1 className = "mainTitle">Welcome To Monty's Mojo Dojo Casa House</h1>
         <div className='about'>
           <h2>About me</h2>
         </div>

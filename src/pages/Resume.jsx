@@ -3,11 +3,19 @@ import './pages.css'
 
 function Main () {
     return(
+        <>
         <main>
-            <div>
-                <h1>Résumé</h1>
+            <h1 className='mainTitle'>Resumé</h1>
+            <div className='container'>
+                <div>
+
+                </div>
+                <div>
+                    
+                </div>
             </div>
         </main>
+        </>
     )
 }
 
